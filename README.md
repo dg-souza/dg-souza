@@ -1,7 +1,7 @@
-Olá, eu sou o Davi. Bem vindo ao meu perfil!!
+<h1>Olá, eu sou o Davi. Bem vindo ao meu perfil!!</h1>
 
 <div>
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dg-souza&hide_progress=true&theme=dracula" />
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dg-souza&hide_progress=true&theme=dracula" />
 </div>
 
 ##
