@@ -4,6 +4,12 @@ Olá, eu sou o Davi. Bem vindo ao meu perfil!!
   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dg-souza&hide_progress=true" />
 </div>
 
+##
+
+<div style="display: inline-block"><br>
+  <img align="center" alt="dg-types" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</div>
+
 <!--
 **dg-souza/dg-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
