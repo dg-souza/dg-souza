@@ -6,7 +6,7 @@ Olá, eu sou o Davi. Bem vindo ao meu perfil!!
 
 ##
 
-<div style="display: inline-block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="dg-types" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
 
